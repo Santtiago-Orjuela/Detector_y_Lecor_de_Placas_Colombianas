@@ -25,7 +25,7 @@ El presente proyecto tiene como objetivo desarrollar un sistema de detección y 
 ---
 
 ## Metodología
-
+![Proceso](Images/todo.png)
 - **Detección de Placas:**  
   - Utilización de YOLOv5 (modelo `yolov5n6.pt`) para la detección en tiempo real de objetos.
   - Procesamiento de imágenes con redimensionamiento a 1280x720 px.
