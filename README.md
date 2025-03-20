@@ -31,12 +31,14 @@ El presente proyecto tiene como objetivo desarrollar un sistema de detección y 
   - Utilización de YOLOv5 (modelo `yolov5n6.pt`) para la detección en tiempo real de objetos.
   - Procesamiento de imágenes con redimensionamiento a 1280x720 px.
   - Entrenamiento realizado en Google Colab utilizando GPU T4 gratuita.
+    
 ![Imagen de Ejemplo](Images/ejemplo_de_placa.png)
 
 - **Segmentación de Caracteres:**  
   - Recorte de la imagen de la placa conservando el 75% superior para evitar información irrelevante.
   - Conversión a escala de grises, filtrado gaussiano y binarización (método de Otsu) para mejorar la visibilidad.
   - Identificación y ordenamiento de contornos de caracteres de izquierda a derecha.
+    
 ![Proceso](Images/letras_separadas.png)
 
 - **Reconocimiento de Caracteres:**  
