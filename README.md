@@ -1,4 +1,4 @@
-# Detector_y_Lecor_de_Placas_Colombianas
+# Detector y Lecor de Placas Colombianas
 
 **Integrantes:**  
 - Santiago Orjuela ([santiagoa.orjuela@udea.edu.co](mailto:santiagoa.orjuela@udea.edu.co))  
